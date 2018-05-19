@@ -13,7 +13,7 @@
 |Codecov|![codecov](https://codecov.io/gh/adiIspas/APS-Backend/branch/production/graph/badge.svg)|[![codecov](https://codecov.io/gh/adiIspas/APS-Backend/branch/develop/graph/badge.svg)](https://codecov.io/gh/adiIspas/APS-Backend)|
 
 ## Short description
-A basic Information retrieval system for Romanian language.
+A basic app example for MPS Project.
 
 ----------
 
