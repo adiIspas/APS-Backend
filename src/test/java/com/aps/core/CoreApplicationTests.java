@@ -13,4 +13,10 @@ public class CoreApplicationTests {
     public void contextLoads() {
     }
 
+    @Test
+    public void testSum() {
+        TestFile testFile = new TestFile();
+        assert testFile.sum(1,2) == 3;
+    }
+
 }
