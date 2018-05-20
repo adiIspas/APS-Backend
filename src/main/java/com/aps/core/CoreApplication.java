@@ -7,8 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CoreApplication {
 
     public static void main(String[] args) {
-        int i = 1;
-        i = i + 4;
         SpringApplication.run(CoreApplication.class, args);
     }
 }
