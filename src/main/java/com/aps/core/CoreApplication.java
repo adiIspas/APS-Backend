@@ -8,7 +8,7 @@ public class CoreApplication {
 
     public static void main(String[] args) {
         int i = 1;
-        i = i + 1;
+        i = i + 2;
         SpringApplication.run(CoreApplication.class, args);
     }
 }
